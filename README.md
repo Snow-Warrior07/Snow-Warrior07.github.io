@@ -1,6 +1,6 @@
 # Abhitesh Shukla — Engineering Portfolio
 
-A static, responsive portfolio using Abhitesh's resume, confirmed coursework, GitHub profile and four featured repositories. Includes education, internships, technical skills, selected engineering and Business Studies courses, contact links, and the downloadable source resume. The main page links to a separate `leadership/` page with nine roles, dates and initiatives confirmed by Abhitesh. Project filters, accessible native-dialog case studies, and a saved light/dark theme preference complete the site.
+A static, responsive portfolio using Abhitesh's resume, confirmed coursework, GitHub profile and five featured repositories. Includes education, internships, technical skills, selected engineering and Business Studies courses, contact links, and the downloadable source resume. The main page links to a separate `leadership/` page with nine roles, dates and initiatives confirmed by Abhitesh. Project filters, accessible native-dialog case studies, and a saved light/dark theme preference complete the site.
 
 Live portfolio: https://snow-warrior07.github.io/
 
@@ -16,3 +16,5 @@ Featured repositories:
 - https://github.com/Snow-Warrior07/Satellite_based_tile_segmentation
 - https://github.com/Snow-Warrior07/VAE-Triage
 - https://github.com/Snow-Warrior07/supplyshield
+
+- https://github.com/Snow-Warrior07/sar-adc-8bit
